@@ -1,4 +1,4 @@
-FROM centos:7                                                                          
+FROM centos:latest                                                                          
 LABEL Name="Chetan Singh"
 LABEL EmailID dummy@gmail.com""
 LABEL Mobile="971734256"
